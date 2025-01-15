@@ -1,8 +1,7 @@
 export function Header() {
   return (
     <header>
-      <h1>Todo</h1>
-      
+      <h1>Header</h1>
     </header>
   )
 }
